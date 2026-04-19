@@ -1,0 +1,23 @@
+{
+  "overview": "A polished generic marketing landing page with hero, features, testimonials, pricing, about, and a functional contact form. Built with React, TypeScript, and Tailwind CSS.",
+  "features": [
+    "Hero section with headline, subheadline, and CTA",
+    "Features grid with icon cards",
+    "Testimonials section with star ratings",
+    "3-tier pricing cards with highlighted recommended plan",
+    "About section with company/mission copy",
+    "Contact form with validation and success state",
+    "Fixed header with smooth-scroll navigation",
+    "Mobile-responsive hamburger menu",
+    "Footer with links and social placeholders"
+  ],
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "landing-page",
+    "contact-form",
+    "responsive",
+    "tailwind"
+  ],
+  "last_updated": "2026-04-19T14:09:51.433Z"
+}
