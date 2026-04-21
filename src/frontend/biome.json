@@ -21,6 +21,9 @@
     "enabled": true,
     "rules": {
       "recommended": true,
+      "a11y": {
+        "noNoninteractiveTabindex": "off"
+      },
       "correctness": {
         "useHookAtTopLevel": "error",
         "noUnusedVariables": "error"

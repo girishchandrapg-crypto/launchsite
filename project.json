@@ -1,23 +1,22 @@
 {
-  "overview": "A polished generic marketing landing page with hero, features, testimonials, pricing, about, and a functional contact form. Built with React, TypeScript, and Tailwind CSS.",
+  "overview": "A production-ready Event Finder web application with dark glassmorphism design, real-time search and filtering across 20+ events, secure ticket checkout, full auth flow with JWT display, and beautiful animated UI sections including trending events, featured organizers, and personalized recommendations.",
   "features": [
-    "Hero section with headline, subheadline, and CTA",
-    "Features grid with icon cards",
-    "Testimonials section with star ratings",
-    "3-tier pricing cards with highlighted recommended plan",
-    "About section with company/mission copy",
-    "Contact form with validation and success state",
-    "Fixed header with smooth-scroll navigation",
-    "Mobile-responsive hamburger menu",
-    "Footer with links and social placeholders"
+    "Real-time search and category filtering across 20+ events",
+    "Dark glassmorphism UI with animated gradient hero",
+    "Event detail modal with schedule, speakers, and actions",
+    "Security features: auth modal, cookie consent, secure checkout, input sanitization",
+    "Trending section, featured organizers, stats bar, newsletter",
+    "Responsive design: mobile hamburger menu to desktop 3-column grid"
   ],
-  "category": "marketing",
+  "category": "entertainment",
   "tags": [
-    "marketing",
-    "landing-page",
-    "contact-form",
-    "responsive",
-    "tailwind"
+    "events",
+    "react",
+    "dark-mode",
+    "glassmorphism",
+    "search",
+    "filtering",
+    "responsive"
   ],
-  "last_updated": "2026-04-19T14:09:51.433Z"
+  "last_updated": "2026-04-21T02:15:45.445Z"
 }

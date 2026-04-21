@@ -1,5 +1,5 @@
 import { Toaster } from "@/components/ui/sonner";
-import { LandingPage } from "@/routes/index";
+import { EventFinderApp } from "@/routes/index";
 import {
   Outlet,
   RouterProvider,
@@ -20,7 +20,7 @@ const rootRoute = createRootRoute({
 const indexRoute = createRoute({
   getParentRoute: () => rootRoute,
   path: "/",
-  component: LandingPage,
+  component: EventFinderApp,
 });
 
 const router = createRouter({
